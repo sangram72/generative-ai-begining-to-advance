@@ -61,6 +61,16 @@
 #     print("Welcome back!")
 
 
-skills = ["Python", "React", "LangChain", "Azure"]
+# skills = ["Python", "React", "LangChain", "Azure"]
 
-print("Python" in skills)  # True
+# print("Python" in skills)  # True
+
+
+a = [1, 2, 3]
+
+b = a
+
+c = [1, 2, 3]
+
+
+print
