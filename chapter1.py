@@ -66,11 +66,30 @@
 # print("Python" in skills)  # True
 
 
-a = [1, 2, 3]
+# a = [1, 2, 3]
 
-b = a
+# b = a
 
-c = [1, 2, 3]
+# c = [1, 2, 3]
 
 
-print
+# print(a==b)
+
+# print(a is c)
+
+# print(1 in a)
+
+
+# count = 1
+
+# while count<=5:
+
+#       print(count)
+#       count+=1
+    
+
+     
+
+
+
+
